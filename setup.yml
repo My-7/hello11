@@ -1,0 +1,28 @@
+lưu ý đầu tiên:
+- phải có api mới có thể chạy ddos
+- muốn sms thì phải cấu hình mạnh vì tool spam ăn rất nhiều tài nguyên
+- nodejs > 20.5.1
+- setup này trên windows server 2022 21h1
+
+bước 1: tạo 1 sql tên dis_db nhập dữ liệu từ file user.sql vào # bạn đặc gì cũng đc nhưng phải nhớ tên vừa đặt
+bước 2: cài những thứ cần thiết
+
+gồm: 
+bỏ những thứ dưới đây vào cmd:
+- npm install i sql2
+- npm install i discord.js
+- npm install i axios
+- npm install i moment
+- npm install i moment-duration-format
+- npm install i cpu-stat
+- npm install -g nodemon
+#nếu có thiếu tự xem nó thiếu gì cài nha
+lưu ý: 
+chỉnh token thành bot của bạn và clientid
+
+bước 3:  vô file gõ 'node reg.js'sau khi chạy xong gõ tiếp lệnh 'nodemon' nó sẽ tự chạy
+
+thắc mắc ? 
+DMS: allec_vn
+
+

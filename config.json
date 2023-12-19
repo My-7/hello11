@@ -1,0 +1,15 @@
+{
+	"clientId": "677008311073243166",
+	"token": "MTE4NDk2MTE2NDA5OTE5NDkwMA.G-zUiU.340T6FmHTMBqquHzMYXpYZa_uFdyHyiarJ5BYM",
+	"host_sql": "localhost",
+	"user_sql": "root",
+	"pass_sql": "",
+	"database_sql": "dis_db",
+	"link_4m": "6541d735c5b5052bac0739d8",
+	"key_log": "https://discord.com/api/webhooks/1169514004742410280/RWmQCIYevImKqd6hR1Y6EmeEoote0DMGOVncN9osFy3g70LLeNtoKkLyr_rx4OCSNX1z",
+	"attack_log": "https://discord.com/api/webhooks/1169509495311978536/c3__T17GIzWLANgO7OKPdurz7-VxBtmfu-1QYbM0RDMnLCsStYWidKhZiDYslOLCKGxs",
+	"api_l4": "localhost",
+	"api_l7": "localhost",
+	"api_home": "localhost",
+	"api_sms": "localhost"
+}
